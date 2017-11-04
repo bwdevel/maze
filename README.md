@@ -2,10 +2,12 @@
 
 ## Generate procedural mazes with Prim's algorithm
 
-Maze actively generating:
+Maze actively generating  
+
 ![alt text](screenshot_01.png "Maze generating")
 
-Completed maze, with big block size and debug overlay
+Completed maze, with big block size and debug overlay  
+
 ![alt text](screenshot_02.png "Maze generated, large block, with debug overlay")
 
 

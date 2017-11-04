@@ -5,10 +5,11 @@ function love.load()
   mazeheight = love.graphics.getHeight()/blocksize
   walllist = {}
   maze = maze_generate(mazewidth, mazeheight)
+  -- find starting position
   start = math.random(#maze)
   maze[start].val = 0
   maze[start].visited = true
-  current = start
+  --populate inital wall list
   table_add_table(walllist, get_neighbors(start, 2, 1))
   print(#walllist)
 end

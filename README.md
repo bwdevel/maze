@@ -1,6 +1,6 @@
 # Maze Generator
 
-## Generate procedural mazes with Prim's algorithm
+## Procedural genration of mazes with Prim's algorithm
 
 This was a quick attempt to prototype the concept before implementing it in my [GitHub Game Off project](https://github.com/bwdevel/go2017). Current the generator iterates once per frame so it is quite slow; but this is intended for graphical representation of the process.
 

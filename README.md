@@ -2,7 +2,7 @@
 
 ## Generate procedural mazes with Prim's algorithm
 
-This was a quick attempt to prototype the concept before implementing it in my [GitHub Game Off project](https://github.com/bwdeve/go2017).
+This was a quick attempt to prototype the concept before implementing it in my [GitHub Game Off project](https://github.com/bwdevel/go2017).
 
 ### Screenshots
 
